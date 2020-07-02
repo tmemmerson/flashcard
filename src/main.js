@@ -2,7 +2,7 @@ import $ from 'jQuery';
 import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './styles.css';
-import { fuzzyBear } from './fuzzy';
+import { HungryBear } from './hungrybear';
 
 $(document).ready(function() {
   const usedPetNames = [];
